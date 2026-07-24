@@ -2,7 +2,7 @@
 
 An end-to-end interactive dashboard built in **Microsoft Excel**, using **Power Query**, **Power Pivot**, and **DAX**, to help hospital stakeholders monitor emergency room performance, patient flow, and service quality.
 
-
+![Dashboard Preview](assets/Dashboard.png) 
 
 ---
 
